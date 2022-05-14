@@ -25,7 +25,7 @@ export default function InputModal(props) {
             open={open}
             onClose={handleClose}
             // FIXME: ここでエラーが出る
-            children={<></>}
+            // children={<></>}
             >
                 
             <Box sx={boxStyle}>
